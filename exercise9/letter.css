@@ -1,0 +1,19 @@
+body{
+    background-color: seagreen;
+}
+
+h1{
+    color:rgb(153, 83, 51);
+    margin-left: 200px;
+}
+button{
+    background-color: blueviolet;
+    border: 2px solid darkgreen;
+    border-radius: 5px;
+    padding: 5px;
+    margin-left: 290px;
+    padding-left: 12px;
+    padding-right: 12px;
+    color: darkred;
+    margin-top: 50px;
+}
