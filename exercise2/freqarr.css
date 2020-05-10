@@ -1,0 +1,22 @@
+body{
+    background-color: aquamarine;
+}
+h1{
+    color: brown;
+    margin-left: 250px;
+}
+.int1{
+    margin-left: 280px;
+    margin-top: 50px;
+}
+button{
+    background-color: darkblue;
+    border-radius: 5px;
+    margin-left: 340px;
+    margin-top: 20px;
+    color: darkgoldenrod;
+}
+#demo{
+    color: darkred;
+    margin-left: 280px;
+}
