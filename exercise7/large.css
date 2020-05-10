@@ -1,0 +1,35 @@
+body{
+    background-color: aqua;
+}
+.int1{
+    margin-top: 50px;
+    margin-left: 150px;
+}
+.int2{
+    margin-top: 15px;
+    margin-left: 150px;
+}
+button{
+    margin-top: 20px;
+    margin-left: 280px;
+    padding: 8px;
+    background-color:rgb(27, 195, 201) ;
+    border: 2px solid rgb(128, 70, 82);
+    border-radius: 5px;
+}
+#num1{
+    border: 1px solid blue;
+    border-radius: 5px;
+}
+#num2{
+    border: 1px solid blue;
+    border-radius: 5px;
+}
+h1{
+    color: brown;
+    margin-left: 160px;
+}
+p{
+    font-weight: 800;
+    margin-left: 280px;
+}
