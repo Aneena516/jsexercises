@@ -1,0 +1,11 @@
+button{
+    padding: 10px;
+    margin:50px;
+    margin-left: 320px;
+    background-color:violet;
+    border: 2px solid lightcoral;
+}
+h1{
+    color:blue;
+    margin-left: 250px;
+}
