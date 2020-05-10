@@ -1,0 +1,20 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    color: blueviolet;
+    margin-left: 250px;
+}
+
+button{
+    padding: 10px;
+    background-color: chocolate;
+color: rgb(112, 9, 9);
+margin-left: 340px;
+margin-top: 20px;
+border-radius: 5px;
+}
+#demo{
+    margin-left:300px;
+    color: darkgreen;
+}
